@@ -7,13 +7,16 @@
 #include "stdafx.h"
 #include <iostream>
 #include <string>
+#include <time.h>
 using namespace std;
 
 
 
 int main()
 {
-	int Number = rand() % 5 + 1;
+	int Number;
+	srand(time(0));
+	Number = rand() % 5 + 1;
 	if (Number == 1) {
 		cout << "HELLO WORLD!!!" << endl;}
 	else if (Number == 2){

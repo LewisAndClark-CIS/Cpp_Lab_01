@@ -12,14 +12,17 @@ using namespace std;
 int main()
 {
 	double BasePrice;
+	double Tax = 0.0;
+	double License = 0.0;
+	double TotalPrice = 0;
 	int DealerPrep = 50;
 	int Destination = 25;
 	cout << "Enter Base Price for Car: ";
 	cin >> BasePrice;
 	getchar();
-	double Tax = BasePrice*0.0725;
-	double License = BasePrice*0.1725;
-	double TotalPrice = BasePrice + Tax + License + DealerPrep + Destination;
+	Tax = BasePrice*0.0725;
+	License = BasePrice*0.1725;
+	TotalPrice = BasePrice + Tax + License + DealerPrep + Destination;
 	cout << "The total cost of this vechile: " << TotalPrice << ".\n";
 	getchar();
 	return 0;
