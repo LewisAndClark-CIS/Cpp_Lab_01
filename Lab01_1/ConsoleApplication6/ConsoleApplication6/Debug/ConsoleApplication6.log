@@ -1,0 +1,22 @@
+﻿Build started 1/26/2015 9:16:52 AM.
+Project "C:\Users\IEUser\Cpp_Lab_01\Lab01_1\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication6.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication6.cpp
+  ConsoleApplication6.cpp
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(14): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(19): warning C4390: ';' : empty controlled statement found; is this the intent?
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(20): error C2065: 'cout' : undeclared identifier
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(24): warning C4390: ';' : empty controlled statement found; is this the intent?
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(25): error C2065: 'cout' : undeclared identifier
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(29): warning C4390: ';' : empty controlled statement found; is this the intent?
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(30): error C2065: 'cout' : undeclared identifier
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(34): warning C4390: ';' : empty controlled statement found; is this the intent?
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(35): error C2065: 'cout' : undeclared identifier
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(39): warning C4390: ';' : empty controlled statement found; is this the intent?
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(40): error C2065: 'cout' : undeclared identifier
+c:\users\ieuser\cpp_lab_01\lab01_1\consoleapplication6\consoleapplication6\consoleapplication6.cpp(43): error C2065: 'cout' : undeclared identifier
+Done Building Project "C:\Users\IEUser\Cpp_Lab_01\Lab01_1\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.40
