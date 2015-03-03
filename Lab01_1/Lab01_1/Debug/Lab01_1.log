@@ -1,0 +1,18 @@
+﻿Build started 1/20/2015 10:05:17 AM.
+Project "C:\Users\IEUser\Cpp_Lab_01\Lab01_1\Lab01_1\Lab01_1.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Lab01_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+  stdafx.cpp
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Lab01_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lab01_1.cpp
+  Lab01_1.cpp
+c:\users\ieuser\cpp_lab_01\lab01_1\lab01_1\lab01_1.cpp(8): error C2065: 'cout' : undeclared identifier
+c:\users\ieuser\cpp_lab_01\lab01_1\lab01_1\lab01_1.cpp(9): error C2146: syntax error : missing ';' before identifier 'cin'
+c:\users\ieuser\cpp_lab_01\lab01_1\lab01_1\lab01_1.cpp(9): error C2065: 'cin' : undeclared identifier
+c:\users\ieuser\cpp_lab_01\lab01_1\lab01_1\lab01_1.cpp(11): error C2065: 'favfood' : undeclared identifier
+c:\users\ieuser\cpp_lab_01\lab01_1\lab01_1\lab01_1.cpp(11): error C2143: syntax error : missing ';' before 'return'
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): error MSB6006: "CL.exe" exited with code 2.
+Done Building Project "C:\Users\IEUser\Cpp_Lab_01\Lab01_1\Lab01_1\Lab01_1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.38
